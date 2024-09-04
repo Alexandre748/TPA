@@ -6,7 +6,7 @@ public class Pares {
 		
 		while(i <= 200) {
 			System.out.println(i);
-			i+=2;
+			i= i + 2;
 		}
 		
 	}
